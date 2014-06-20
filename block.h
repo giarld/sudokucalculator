@@ -15,7 +15,7 @@ public:
     void changeColor(const QColor &color);
     int data();
     QPoint getPos();
-    void setPos(const QPoint &p);
+    void setPos(const QPoint &p);       //pos
     void setPos(int x,int y);
     void setValue(int a);
     void setEna(bool ok);
